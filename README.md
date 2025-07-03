@@ -5,13 +5,15 @@ Currículum Vitae
 📍 Spain  
 📞 +34 6 00 00 00 00  
 ✉️ example@email.com  
- 💻 [github.com/inma1803](https://github.com/inma1803)
+💻 [github.com/inma1803](https://github.com/inma1803)
 
 ---
 
 ## 🎯 Perfil
 
 Desarrollo Web y Diseño Gráfico.
+
+![Desarrollo Web](img/design_640.webp)
 
 ---
 
@@ -26,7 +28,7 @@ Desarrollo Web y Diseño Gráfico.
 
 **Formación Académica** – Título de Bachiller  
 
-**Formación Complementaria** – Université de Montpellier  
+**Formación Complementaria** 
 *- Confección y Publicación de Páginas Web*
 *- Diseño Gráfico y Animación*
 *- Técnico Auxiliar en Diseño Industrial e Interiores*
@@ -49,7 +51,8 @@ Desarrollo Web y Diseño Gráfico.
 
 ## 💡 Proyetos Personales
 
-- **Portfolio personal** – [portfolio I.G.](https://)  
+- **Portfolio personal** – [Portfolio I.G.](https://portfolioinmadesignsevilla.free.nf)  
+ 
  
 
 ---
