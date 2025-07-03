@@ -26,7 +26,8 @@ Desarrollo Web y Diseño Gráfico.
 
 ## 🎓 Formación
 
-**Formación Académica** – Título de Bachiller  
+**Formación Académica** 
+- Título de Bachiller  
 
 **Formación Complementaria** 
 - *Confección y Publicación de Páginas Web*
