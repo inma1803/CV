@@ -29,10 +29,10 @@ Desarrollo Web y Diseño Gráfico.
 **Formación Académica** – Título de Bachiller  
 
 **Formación Complementaria** 
--* Confección y Publicación de Páginas Web*
--* Diseño Gráfico y Animación*
--* Técnico Auxiliar en Diseño Industrial e Interiores*
--*- Técnico Auxiliar en Diseño Gráfico*
+- *Confección y Publicación de Páginas Web*
+- *Diseño Gráfico y Animación*
+- *Técnico Auxiliar en Diseño Industrial e Interiores*
+- *Técnico Auxiliar en Diseño Gráfico*
 
 ---
 
