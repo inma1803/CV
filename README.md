@@ -48,9 +48,9 @@ Desarrollo Web y Diseño Gráfico.
 - **Autocad 2D y 3D**
 - **Mac y Windows**
 
-| Lenguaje de   | Lenguaje de Programación | Servidores |
+| Diseño | Desarrollo Web | Servidores |
 | :---    |  :----: |  ---: |
-| HTML | JavaScript   | NodeJS  |
+| Adobe Creative Suite | JavaScript   | NodeJS  |
 | CSS    | PHP   | Apache |
 ---
 
