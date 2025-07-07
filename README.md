@@ -48,10 +48,10 @@ Desarrollo Web y Diseño Gráfico.
 - **Autocad 2D y 3D**
 - **Mac y Windows**
 
-| Diseño | Desarrollo Web | FrameWorks | Servidores |
-| :---    |  :----: |  :----: |  ---: |
-| Adobe Creative Suite | JavaScript   | Tailwind | NodeJS  |
-| CSS    | PHP   | Bootstrap | Xampp |
+| Diseño | Diseño Web | Programación Web | FrameWorks | Servidores |
+| :---   |  :----: |  :----:  |  :----:  |  ---: |
+| Adobe Creative Suite | HTML5 | JavaScript |  Tailwind  | NodeJS  |
+| AutoCAD 2D y 3D      | CSS3  | PHP   | Bootstrap | Xampp |
 ---
 
 ## 💡 Proyetos Personales
