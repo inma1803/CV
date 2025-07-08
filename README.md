@@ -5,7 +5,7 @@ Currículum Vitae
 📍 Spain  
 📞 +34 6 00 00 00 00  
 ✉️ example@email.com  
-💻 [github.com/inma1803](https://github.com/inma1803)
+💻 [inma1803.github.io/Curriculum](https://inma1803.github.io/Curriculum)
 
 ---
 
@@ -47,10 +47,11 @@ Desarrollo Web y Diseño Gráfico.
 - **Adobe Creative Suite** 
 - **Autocad 2D y 3D**
 - **Mac y Windows**
+- **Microsoft Office**
 
 | Diseño | Diseño Web | Programación Web | FrameWorks | Servidores |
 | :---   |  :----: |  :----:  |  :----:  |  ---: |
-| Adobe Creative Suite | HTML5 | JavaScript |  Tailwind  | NodeJS  |
+| Adobe Creative Suite | HTML5 | JavaScript |  Tailwind CSS  | NodeJS  |
 | AutoCAD 2D y 3D      | CSS3  | PHP   | Bootstrap | Xampp |
 ---
 
